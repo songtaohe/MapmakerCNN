@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/ubuntu/songtao/model_256_reg_512output/modelX_0.023279"
+all_model_checkpoint_paths: "/home/ubuntu/songtao/model_256_reg_512output/modelX_0.0255427"
+all_model_checkpoint_paths: "/home/ubuntu/songtao/model_256_reg_512output/modelX_0.0235293"
+all_model_checkpoint_paths: "/home/ubuntu/songtao/model_256_reg_512output/modelX_0.0232608"
+all_model_checkpoint_paths: "/home/ubuntu/songtao/model_256_reg_512output/model"
+all_model_checkpoint_paths: "/home/ubuntu/songtao/model_256_reg_512output/modelX_0.023279"
